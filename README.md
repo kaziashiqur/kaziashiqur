@@ -1,114 +1,175 @@
-![Banner](https://via.placeholder.com/1200x300?text=Md+Ashiqur+Rahman+-+PHP+%2F+Laravel+Developer)
+<div align="center">
 
-# Md Ashiqur Rahman
+# Hi, I'm Md Ashiqur Rahman 👋
 
-**Software Developer (PHP / Laravel)**
-Rangpur, Bangladesh
+### Software Developer — PHP / Laravel
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+Building scalable SaaS platforms, e-commerce systems & REST APIs for 5.5+ years
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrahmanashiqur3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-ashiqurrahman/)
 
-## Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=6366f1)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
 
----
+<br>
 
-## About Me
+## 🚀 About Me
 
-Software Developer with 5.5+ years of experience specializing in PHP and the Laravel framework, building SaaS platforms, e-commerce systems, REST APIs, and payment gateway integrations. Experienced across the full development lifecycle — from database design and backend architecture to API development and production deployment. Skilled in MySQL, JavaScript, jQuery, and Laravel Livewire, with a track record of delivering scalable, secure, multi-tenant applications for SaaS and client projects.
+I'm a Laravel-focused backend developer who has shipped 10+ production SaaS applications — hotel booking engines, e-commerce storefronts, fintech tools, and marketplaces — with a strong focus on multi-tenant architecture, payment integrations, and clean REST APIs.
 
----
+Currently building at **TheSoftKing Ltd**, previously at **Deshi System Limited**.
 
-## Core Skills
+Open to full-time Software Engineer / Architect roles — remote or relocation to 🇦🇺 🇨🇦 🇮🇳 🇬🇧 🇺🇸.
 
-- PHP, Laravel Framework, JavaScript, jQuery, Laravel Livewire
-- MySQL, Database Design, RESTful API Development & Integration
-- SaaS Application Development, Multi-Tenant Architecture
-- Payment Gateway Integration, E-Commerce Systems
-- Version Control (Git), Quality Assurance, Debugging & Optimization
-- Technical Documentation, Data Analysis, Requirements Analysis
-- Project Coordination, Project Leadership, Team Collaboration
+<br>
 
----
+## 🛠️ Tech Stack
 
-## Professional Experience
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Payment%20Gateways-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Payments"/>
+</p>
 
-### Software Developer (PHP – Laravel)
-**TheSoftKing Ltd** — Bangladesh · *January 2021 – Present*
+<br>
 
-- Designed and developed multi-tenant SaaS platforms, e-commerce systems, booking systems, and fintech applications using PHP and Laravel.
-- Built and maintained 10+ Laravel web applications and RESTful APIs across SaaS, e-commerce, booking, and fintech domains.
-- Implemented Laravel Livewire to add dynamic, real-time features to web applications without full page reloads.
-- Customized and enhanced functionality across multiple live client projects, improving performance and reliability.
-- Integrated multiple payment gateways and third-party services to support secure, scalable transactions.
+## 💼 Experience
 
-### Junior Software Developer (PHP – Laravel)
-**Deshi System Limited** — Bangladesh · *March 2019 – December 2020*
+**Software Developer (PHP / Laravel)** · TheSoftKing Ltd · *Jan 2021 – Present*
+Building multi-tenant SaaS, e-commerce, booking, and fintech platforms; 10+ Laravel apps & REST APIs shipped; Livewire for real-time UI; payment gateway integrations.
 
-- Developed and maintained PHP/Laravel web applications, contributing to backend features, database structure, and bug fixes.
-- Gained hands-on experience in Laravel fundamentals, MySQL database design, and collaborative software development practices.
+**Junior Software Developer (PHP / Laravel)** · Deshi System Limited · *Mar 2019 – Dec 2020*
+Backend features, database design, and bug fixes on PHP/Laravel web applications.
 
----
+<br>
 
-## Projects
+## 📌 Featured Projects
 
-Selected Laravel/PHP SaaS platforms and REST APIs designed and developed across full-stack roles.
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Live Link |
-|---|---|---|
-| **TwixHotel** — Hotel Management SaaS | Multi-tenant SaaS hotel management platform covering reservations, dynamic room assignment, staff and role-based access, POS/food management, and booking analytics. | [Live Demo](https://script.viserlab.com/twixhotel/) |
-| **ViserHotel** — Hotel Booking Solution | Laravel-based hotel booking and room reservation system with online/offline booking approval, merged invoicing, and a receptionist admin workflow. | [Live Demo](https://script.viserlab.com/viserhotel/) |
-| **ViserBus** — Bus Ticket Booking System | End-to-end bus ticketing platform handling routes, schedules, fleets, and seat booking, integrated with 30+ automated payment gateways. | [Live Demo](https://script.viserlab.com/viserbus/) |
-| **ViserStock** — Microstock Marketplace | Photo-sharing and microstock marketplace with contributor, reviewer, and admin roles, subscription plans, and automated payouts. | [Live Demo](https://script.viserlab.com/viserstock) |
-| **MatriLab** — Matchmaking & Matrimony Platform | Matrimony and matchmaking platform with detailed member profiles, compatibility-based search, profile verification, and secure in-app messaging. | [Live Demo](https://script.viserlab.com/matrilab) |
-| **ViserMart** — E-Commerce Shopping Platform | Full-featured e-commerce storefront and admin system for online product catalogs, orders, payments, and store management. | [Live Demo](https://script.viserlab.com/visermart) |
-| **ViserKid** — Kids E-Commerce Platform | Dedicated e-commerce storefront for children's products with catalog, cart, and order management tailored to a baby/kids shop. | [Live Demo](https://script.viserlab.com/viserkid) |
-| **eSIM** — International eSIM & Data Purchase Platform | Cross-platform mobile application and REST API for browsing, purchasing, and managing international eSIM data plans. | [Live Demo](https://script.viserlab.com/esim) |
-| **Booking SaaS** — Multi-Vendor Hotel Booking Platform | Multi-vendor hotel booking SaaS with vendor and admin panels, merged bookings, staff roles, discounting, and a dedicated REST API layer. | [Live Demo](https://script.viserlab.com/bookingsaas/) |
-| **nativeips.com** — IP-Switching VPN SaaS *(partial)* | HTTP proxy / IP-switching VPN SaaS product for secure, flexible network access. | [Visit](https://nativeips.com) |
-| **businessglobalizer.com** *(partial)* | SaaS product supporting business globalization and operations. | [Visit](https://businessglobalizer.com) |
-| **Aldeafah Group of Company** — Hotel | Successfully delivered multi-vendor hotel management and booking platforms, along with various custom software projects, by thoroughly analyzing client requirements and developing tailored solutions. | [Visit](https://deafahhotels.com) |
+**🏨 TwixHotel**
+Multi-tenant hotel management SaaS — reservations, dynamic room assignment, POS, and booking analytics.
+[🔗 Live Demo](https://script.viserlab.com/twixhotel/)
 
----
+</td>
+<td width="50%">
 
-## Education
+**🏨 ViserHotel**
+Hotel booking system with online/offline approval, merged invoicing, and receptionist workflow.
+[🔗 Live Demo](https://script.viserlab.com/viserhotel/)
 
-**Bachelor of Science in Computer Science & Engineering (CSE)**
-Bangladesh Institute of Science & Technology (BIST), Dhaka, Bangladesh — January 2020
-CGPA: 3.33 / 4.00
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Higher Secondary Certificate (HSC), Science**
-Rangpur Govt. College, Rangpur, Bangladesh — January 2015
-CGPA: 4.57 / 5.00
+**🚌 ViserBus**
+End-to-end bus ticketing platform with routes, fleets, seat booking, and 30+ payment gateways.
+[🔗 Live Demo](https://script.viserlab.com/viserbus/)
 
-**Secondary School Certificate (SSC), Science**
-Kallani High School, Rangpur, Bangladesh — January 2013
-CGPA: 5.00 / 5.00
+</td>
+<td width="50%">
 
----
+**📸 ViserStock**
+Microstock marketplace with contributor/reviewer roles, subscriptions, and automated payouts.
+[🔗 Live Demo](https://script.viserlab.com/viserstock)
 
-## Languages
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-- Bangla — Native/Fluent
-- English — Professional Working Proficiency
+**💍 MatriLab**
+Matrimony platform with compatibility search, profile verification, and secure messaging.
+[🔗 Live Demo](https://script.viserlab.com/matrilab)
 
----
+</td>
+<td width="50%">
 
-## Currently Seeking
+**🛒 ViserMart**
+Full-featured e-commerce storefront and admin system for catalogs, orders, and payments.
+[🔗 Live Demo](https://script.viserlab.com/visermart)
 
-- **Role:** Full-time, Top-Level Software Development role
-- **Preferred Locations:** Dhaka, Bangladesh; open to relocation to Australia, Canada, India, United Kingdom, United States
-- **Target Roles:** Software Engineer/Architect, IT/Telecommunications, General Management/Admin
-- **Preferred Organization Types:** Software Companies, Engineering Firms
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+**🧸 ViserKid**
+Kids' e-commerce storefront with catalog, cart, and order management.
+[🔗 Live Demo](https://script.viserlab.com/viserkid)
 
-*Contact details available upon request.*
+</td>
+<td width="50%">
+
+**📶 eSIM Platform**
+Cross-platform app & REST API for browsing and purchasing international eSIM data plans.
+[🔗 Live Demo](https://script.viserlab.com/esim)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏨 Booking SaaS**
+Multi-vendor hotel booking platform with vendor/admin panels and a dedicated REST API layer.
+[🔗 Live Demo](https://script.viserlab.com/bookingsaas/)
+
+</td>
+<td width="50%">
+
+**🌐 nativeips.com** *(partial)*
+IP-switching VPN SaaS — HTTP proxy product for secure network access.
+[🔗 Visit](https://nativeips.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌍 businessglobalizer.com** *(partial)*
+SaaS platform supporting business globalization and operations.
+[🔗 Visit](https://businessglobalizer.com)
+
+</td>
+<td width="50%">
+
+**🏨 Aldeafah Group Hotels**
+Multi-vendor hotel management and booking platform delivered from custom client requirements.
+[🔗 Visit](https://deafahhotels.com)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering** — Bangladesh Institute of Science & Technology (BIST), Dhaka *(2020)*
+
+<br>
+
+## 🌐 Languages
+
+Bangla (Native) · English (Professional Working Proficiency)
+
+<br>
+
+<div align="center">
+
+📫 Reach out via [email](mailto:mdrahmanashiqur3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kazi-ashiqurrahman/) — always open to interesting SaaS & backend projects.
+
+</div>
