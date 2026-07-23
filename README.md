@@ -55,104 +55,53 @@ Backend features, database design, and bug fixes on PHP/Laravel web applications
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🏨 TwixHotel — Hotel Management SaaS
+Multi-tenant hotel management SaaS covering reservations, dynamic room assignment, POS, and booking analytics.
+🔗 [Live Demo](https://script.viserlab.com/twixhotel/)
 
-**🏨 TwixHotel**
-Multi-tenant hotel management SaaS — reservations, dynamic room assignment, POS, and booking analytics.
-[🔗 Live Demo](https://script.viserlab.com/twixhotel/)
+### 🏨 ViserHotel — Hotel Booking Solution
+Hotel booking system with online/offline approval, merged invoicing, and a receptionist admin workflow.
+🔗 [Live Demo](https://script.viserlab.com/viserhotel/)
 
-</td>
-<td width="50%">
+### 🚌 ViserBus — Bus Ticket Booking System
+End-to-end bus ticketing platform handling routes, fleets, and seat booking, integrated with 30+ payment gateways.
+🔗 [Live Demo](https://script.viserlab.com/viserbus/)
 
-**🏨 ViserHotel**
-Hotel booking system with online/offline approval, merged invoicing, and receptionist workflow.
-[🔗 Live Demo](https://script.viserlab.com/viserhotel/)
+### 📸 ViserStock — Microstock Marketplace
+Photo-sharing marketplace with contributor/reviewer/admin roles, subscription plans, and automated payouts.
+🔗 [Live Demo](https://script.viserlab.com/viserstock)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 💍 MatriLab — Matchmaking & Matrimony Platform
+Matrimony platform with compatibility-based search, profile verification, and secure in-app messaging.
+🔗 [Live Demo](https://script.viserlab.com/matrilab)
 
-**🚌 ViserBus**
-End-to-end bus ticketing platform with routes, fleets, seat booking, and 30+ payment gateways.
-[🔗 Live Demo](https://script.viserlab.com/viserbus/)
+### 🛒 ViserMart — E-Commerce Shopping Platform
+Full-featured e-commerce storefront and admin system for catalogs, orders, and store management.
+🔗 [Live Demo](https://script.viserlab.com/visermart)
 
-</td>
-<td width="50%">
+### 🧸 ViserKid — Kids E-Commerce Platform
+Dedicated e-commerce storefront for children's products with catalog, cart, and order management.
+🔗 [Live Demo](https://script.viserlab.com/viserkid)
 
-**📸 ViserStock**
-Microstock marketplace with contributor/reviewer roles, subscriptions, and automated payouts.
-[🔗 Live Demo](https://script.viserlab.com/viserstock)
+### 📶 eSIM — International eSIM & Data Purchase Platform
+Cross-platform app and REST API for browsing, purchasing, and managing international eSIM data plans.
+🔗 [Live Demo](https://script.viserlab.com/esim)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🏨 Booking SaaS — Multi-Vendor Hotel Booking Platform
+Multi-vendor hotel booking SaaS with vendor/admin panels, merged bookings, and a dedicated REST API layer.
+🔗 [Live Demo](https://script.viserlab.com/bookingsaas/)
 
-**💍 MatriLab**
-Matrimony platform with compatibility search, profile verification, and secure messaging.
-[🔗 Live Demo](https://script.viserlab.com/matrilab)
+### 🌐 nativeips.com — IP-Switching VPN SaaS *(partial)*
+HTTP proxy / IP-switching VPN SaaS product for secure, flexible network access.
+🔗 [Visit](https://nativeips.com)
 
-</td>
-<td width="50%">
+### 🌍 businessglobalizer.com *(partial)*
+SaaS product supporting business globalization and operations.
+🔗 [Visit](https://businessglobalizer.com)
 
-**🛒 ViserMart**
-Full-featured e-commerce storefront and admin system for catalogs, orders, and payments.
-[🔗 Live Demo](https://script.viserlab.com/visermart)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧸 ViserKid**
-Kids' e-commerce storefront with catalog, cart, and order management.
-[🔗 Live Demo](https://script.viserlab.com/viserkid)
-
-</td>
-<td width="50%">
-
-**📶 eSIM Platform**
-Cross-platform app & REST API for browsing and purchasing international eSIM data plans.
-[🔗 Live Demo](https://script.viserlab.com/esim)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏨 Booking SaaS**
-Multi-vendor hotel booking platform with vendor/admin panels and a dedicated REST API layer.
-[🔗 Live Demo](https://script.viserlab.com/bookingsaas/)
-
-</td>
-<td width="50%">
-
-**🌐 nativeips.com** *(partial)*
-IP-switching VPN SaaS — HTTP proxy product for secure network access.
-[🔗 Visit](https://nativeips.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌍 businessglobalizer.com** *(partial)*
-SaaS platform supporting business globalization and operations.
-[🔗 Visit](https://businessglobalizer.com)
-
-</td>
-<td width="50%">
-
-**🏨 Aldeafah Group Hotels**
-Multi-vendor hotel management and booking platform delivered from custom client requirements.
-[🔗 Visit](https://deafahhotels.com)
-
-</td>
-</tr>
-</table>
+### 🏨 Aldeafah Group of Company — Hotel
+Multi-vendor hotel management and booking platform delivered from tailored client requirements.
+🔗 [Visit](https://deafahhotels.com)
 
 <br>
 
