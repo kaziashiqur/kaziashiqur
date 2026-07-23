@@ -53,55 +53,16 @@ Backend features, database design, and bug fixes on PHP/Laravel web applications
 
 <br>
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-### 🏨 TwixHotel — Hotel Management SaaS
-Multi-tenant hotel management SaaS covering reservations, dynamic room assignment, POS, and booking analytics.
-🔗 [Live Demo](https://script.viserlab.com/twixhotel/)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-### 🏨 ViserHotel — Hotel Booking Solution
-Hotel booking system with online/offline approval, merged invoicing, and a receptionist admin workflow.
-🔗 [Live Demo](https://script.viserlab.com/viserhotel/)
-
-### 🚌 ViserBus — Bus Ticket Booking System
-End-to-end bus ticketing platform handling routes, fleets, and seat booking, integrated with 30+ payment gateways.
-🔗 [Live Demo](https://script.viserlab.com/viserbus/)
-
-### 📸 ViserStock — Microstock Marketplace
-Photo-sharing marketplace with contributor/reviewer/admin roles, subscription plans, and automated payouts.
-🔗 [Live Demo](https://script.viserlab.com/viserstock)
-
-### 💍 MatriLab — Matchmaking & Matrimony Platform
-Matrimony platform with compatibility-based search, profile verification, and secure in-app messaging.
-🔗 [Live Demo](https://script.viserlab.com/matrilab)
-
-### 🛒 ViserMart — E-Commerce Shopping Platform
-Full-featured e-commerce storefront and admin system for catalogs, orders, and store management.
-🔗 [Live Demo](https://script.viserlab.com/visermart)
-
-### 🧸 ViserKid — Kids E-Commerce Platform
-Dedicated e-commerce storefront for children's products with catalog, cart, and order management.
-🔗 [Live Demo](https://script.viserlab.com/viserkid)
-
-### 📶 eSIM — International eSIM & Data Purchase Platform
-Cross-platform app and REST API for browsing, purchasing, and managing international eSIM data plans.
-🔗 [Live Demo](https://script.viserlab.com/esim)
-
-### 🏨 Booking SaaS — Multi-Vendor Hotel Booking Platform
-Multi-vendor hotel booking SaaS with vendor/admin panels, merged bookings, and a dedicated REST API layer.
-🔗 [Live Demo](https://script.viserlab.com/bookingsaas/)
-
-### 🌐 nativeips.com — IP-Switching VPN SaaS *(partial)*
-HTTP proxy / IP-switching VPN SaaS product for secure, flexible network access.
-🔗 [Visit](https://nativeips.com)
-
-### 🌍 businessglobalizer.com *(partial)*
-SaaS product supporting business globalization and operations.
-🔗 [Visit](https://businessglobalizer.com)
-
-### 🏨 Aldeafah Group of Company — Hotel
-Multi-vendor hotel management and booking platform delivered from tailored client requirements.
-🔗 [Visit](https://deafahhotels.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
 
 <br>
 
