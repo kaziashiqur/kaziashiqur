@@ -2,7 +2,7 @@
 
 # Hi, I'm Md Ashiqur Rahman 👋
 
-### Software Developer — PHP / Laravel
+### Software Engineer
 
 Building scalable SaaS platforms, e-commerce systems & REST APIs for 5.5+ years
 
