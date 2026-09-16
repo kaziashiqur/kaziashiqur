@@ -32,8 +32,8 @@ Bangla (native), English (professional working proficiency).
 ### GitHub statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaziashiqur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziashiqur&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats-vert-six-7cckrg6uxf.vercel.app/api?username=kaziashiqur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-vert-six-7cckrg6uxf.vercel.app/api/top-langs/?username=kaziashiqur&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
